@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts",
+    "random": "tsx scripts/random-prompts.ts",
     "sync": "tsx scripts/sync-approved-to-cms.ts"
   },
   "devDependencies": {
